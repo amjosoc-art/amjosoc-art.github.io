@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="page-heading">
+  <p class="eyebrow">Category</p>
+  <h1>{{ page.title }}</h1>
+</div>
+
+{% assign category_data = site.data.wiki.categories
+  | where: "source_name", page.category
+  | first %}
+
+{% if category_data and category_data.pages %}
+  <div class="wiki-list">
+    {% for item in category_data.pages %}
+      <a class="wiki-list-item" href="{{ item.url | relative_url }}">
+        <span class="wiki-list-title">{{ item.title }}</span>
+        <span class="wiki-list-arrow">→</span>
+      </a>
+    {% endfor %}
+  </div>
+{% else %}
+  {{ content }}
+{% endif %}

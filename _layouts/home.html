@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="hero">
+  <p class="eyebrow">The Campaign Chronicle</p>
+
+  <h1>{{ page.title | default: "Campaign Wiki" }}</h1>
+
+  <p class="hero-text">
+    A collection of characters, places, events, lore, mysteries, and session
+    notes from our adventure.
+  </p>
+</div>
+
+<section class="category-grid" aria-label="Wiki categories">
+  {% for category in site.data.wiki.categories %}
+    <a class="category-card" href="{{ category.url | relative_url }}">
+      <div class="category-card-title">
+        {{ category.name }}
+      </div>
+
+      <div class="category-card-description">
+        {{ category.pages | size }}
+        {% if category.pages.size == 1 %}page{% else %}pages{% endif %}
+      </div>
+    </a>
+  {% endfor %}
+</section>

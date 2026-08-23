@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="wiki-page">
+
+  <header class="wiki-page-header">
+    <p class="eyebrow">{{ page.category }}</p>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="wiki-page-content">
+    {{ content }}
+  </div>
+
+  <footer class="wiki-page-footer">
+    <a href="{{ '/' | relative_url }}">← Campaign Wiki</a>
+
+    {% assign current_category = site.data.wiki.categories
+      | where: "source_name", page.category
+      | first %}
+
+    {% if current_category %}
+      <a href="{{ current_category.url | relative_url }}">
+        Back to {{ current_category.name }}
+      </a>
+    {% endif %}
+  </footer>
+
+</article>

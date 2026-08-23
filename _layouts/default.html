@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Campaign Wiki</title>
+
+  <link rel="stylesheet" href="{{ '/assets/css/wiki.css' | relative_url }}">
+</head>
+
+<body>
+  <div class="site-shell">
+
+    <header class="wiki-header">
+        <a href="{{ '/' | relative_url }}" class="site-title">
+            Riku'To Wiki
+        </a>
+
+        <div class="wiki-search">
+            <input
+                type="search"
+                id="wiki-search-input"
+                placeholder="Search the wiki..."
+                autocomplete="off"
+            >
+
+            <div
+                id="wiki-search-results"
+                class="wiki-search-results"
+                hidden
+            ></div>
+        </div>
+    </header>
+
+    <div class="site-layout">
+
+      <aside class="sidebar">
+        <div class="sidebar-inner">
+          <a class="sidebar-home" href="{{ '/' | relative_url }}">
+            Campaign Wiki
+          </a>
+
+          <nav aria-label="Wiki categories">
+            {% for category in site.data.wiki.categories %}
+              <a
+                class="sidebar-category{% if page.category == category.source_name %} active{% endif %}"
+                href="{{ category.url | relative_url }}"
+              >
+                <span>{{ category.name }}</span>
+                <span class="sidebar-count">{{ category.pages | size }}</span>
+              </a>
+            {% endfor %}
+          </nav>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        {% if page.category and page.layout == "wiki" %}
+          <div class="breadcrumbs">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <span>›</span>
+
+            {% assign current_category = site.data.wiki.categories
+              | where: "source_name", page.category
+              | first %}
+
+            {% if current_category %}
+              <a href="{{ current_category.url | relative_url }}">
+                {{ current_category.name }}
+              </a>
+              <span>›</span>
+            {% endif %}
+
+            <span>{{ page.title }}</span>
+          </div>
+        {% endif %}
+
+        {{ content }}
+      </main>
+
+    </div>
+
+    <footer class="site-footer">
+      Campaign Wiki
+    </footer>
+
+  </div>
+  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+</body>
+</html>

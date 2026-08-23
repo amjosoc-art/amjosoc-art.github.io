@@ -1,1 +1,0 @@
-# rikuto-wiki
