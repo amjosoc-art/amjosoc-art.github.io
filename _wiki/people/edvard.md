@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Living Painting Name"
+title: "Edvard"
 category: "People"
-source: "People/Living Painting Name.md"
-permalink: "/people/living-painting-name/"
+source: "People/Edvard.md"
+permalink: "/people/edvard/"
 generated: true
 ---
 

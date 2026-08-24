@@ -147,7 +147,7 @@
     "category": "Objects",
     "url": "/objects/necklace-of-hauling/",
     "links": [
-      "Asiz",
+      "Esise",
       "Laine Beaufort|Laine",
       "Kany",
       "Audan"
@@ -189,17 +189,18 @@
     "url": "/party/laine-beaufort/",
     "links": [
       "Thieves' Guild",
-      "Asiz"
+      "Esise"
     ]
   },
   {
     "title": "Soren Solvaren",
-    "aliases": [],
+    "aliases": [
+      "Soren"
+    ],
     "category": "Party",
     "url": "/party/soren-solvaren/",
     "links": [
-      "Taika",
-      "Veskana"
+      "Arkan Raddil|Arkan"
     ]
   },
   {
@@ -210,16 +211,6 @@
     "links": [
       "Hunter's Camp",
       "Audan"
-    ]
-  },
-  {
-    "title": "Asiz",
-    "aliases": [],
-    "category": "People",
-    "url": "/people/asiz/",
-    "links": [
-      "Laine Beaufort|Laine",
-      "Necklace of Hauling"
     ]
   },
   {
@@ -246,6 +237,27 @@
     ]
   },
   {
+    "title": "Edvard",
+    "aliases": [],
+    "category": "People",
+    "url": "/people/edvard/",
+    "links": [
+      "Audan"
+    ]
+  },
+  {
+    "title": "Esise",
+    "aliases": [
+      "Essie"
+    ],
+    "category": "People",
+    "url": "/people/esise/",
+    "links": [
+      "Laine Beaufort|Laine",
+      "Necklace of Hauling"
+    ]
+  },
+  {
     "title": "Forgemaster Egil",
     "aliases": [
       "Egil"
@@ -266,17 +278,8 @@
     "links": [
       "Thieves' Guild",
       "Laine Beaufort",
-      "Asiz",
+      "Esise",
       "Necklace of Hauling"
-    ]
-  },
-  {
-    "title": "Living Painting Name",
-    "aliases": [],
-    "category": "People",
-    "url": "/people/living-painting-name/",
-    "links": [
-      "Audan"
     ]
   },
   {
@@ -315,11 +318,11 @@
       "Sunny",
       "Laine Beaufort",
       "Thieves' Guild",
-      "Asiz",
+      "Esise",
       "Kany",
-      "Asiz",
+      "Esise",
       "Necklace of Hauling",
-      "Asiz",
+      "Esise",
       "Highrise",
       "Soren Solvaren",
       "Arkan Raddil",
@@ -327,7 +330,7 @@
       "Prata",
       "Egil's Glasses|Glasses",
       "Bordon",
-      "Living Painting Name",
+      "Edvard",
       "Laine's Crystal|crystal",
       "Audan",
       "Uostas",
