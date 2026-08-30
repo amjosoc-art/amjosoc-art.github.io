@@ -1,0 +1,19 @@
+---
+layout: wiki
+title: "Session 3"
+category: "Session Notes"
+source: "Session Notes/Session 3.md"
+permalink: "/session-notes/session-3/"
+generated: true
+---
+
+- We confront the two people, one an elven man (Stefon), the other a goblin woman (Stefana). The <a class="wiki-link" href="/mysteries/purple-cloaks-with-one-eye/">cloaks</a> seem similar to the colors of <span class="wiki-unresolved" title="No page exists for this reference">Tofrar</span>, but we don't know if it is a specific sect or unrelated. They claim it is just local fashion and evade our questions about the box or where they came from.  
+- Laine fascinates them with their crystal and Aksel snatches the box. He finds out it requires giving up a memory to open and he gives up the memory of interacting with <a class="wiki-link" href="/people/aeth/">Aeth</a>. Inside, he finds an <a class="wiki-link" href="/mysteries/eye-in-the-box/">eye</a> staring back at him. No one knows what it is, but it seems to be an old and powerful magic item with some kind of mental effect. We take it out of the box and close it again  
+- The two definitely-not-cultists tell us that their gathering place is a warehouse in the harbor while being fascinated. Then Laine covers the stone and the two grab the box and walk off. Aksel puts the eye away, and everyone notices a weird movement with his arm. We then continue.  
+- We come across the ruins of a village, where Laine spots a backpack under a tree with notes belonging to <a class="wiki-link" href="/people/audan-munli/">Audan Munli</a>. The notes are about his travels across Riku'To. The last entry is about this trip, where he states that he wants to investigate this village and return to <a class="wiki-link" href="/locations/uostas/">Uostas</a> in time for his job... signed 3 days ago, so he obviously didn't make it back.  
+- As we lose his tracks, we investigate the village. Laine and Aksel find a vantagepoint to overlook the forest? and find an ancient sword that seems valuable. Soren and Arkan find a trapdoor that seems to have recently been used and after alerting the others, all go down. It leads to an underground area. We find scribbles on the wall "Avoid Eyes?". Further in we enter a room with many faces on the wall missing their eyes.  
+- In the next room we encounter a group of skeletons. Aksel goes down but can get healed up, when he reveals that his arm is a wooden prosthetic which also hides a katana inside. He uses a Spellstrike but misses because Sparta can't have nice things.  
+- After the battle, we continue investigating until we find a "pristine room" which is not as ruined as the rest. There is a statue of a man with a greatsword holding a stone version of the <a class="wiki-link" href="/mysteries/eye-in-the-box/">eye</a> we found earlier. When Aksel touches the statue, he gets flashed by a flood of memories of a life, which end with a war and lights in the sky spreading across the sky in a pattern we do not understand, the sky breaking open, before everything goes dark. The life is strange to us, people are using magic much more casually than we do. (**This seems important.**)  
+- Aksel uses the actual eye to try and build a more stable connection to the memories. In addition to the previous, he sees a massive engineered harbor, and another landmass across. The sky does not have the weaving shimmer of the barrier surrounding the islands. Finally, the last moment of the person, as they rush down to the statue and enchant it.  
+	- The lights spreading across the sky did not look dissimilar to the barrier, but the cracks are more crystalline while the barrier looks like iridescent gleaming fabric.  
+- In another room, we find an ancient library, but due to the fragile condition of the books, we decide to let it be and notify Soren's and Arkan's contacts respectively. Meanwhile Aksel and Laine find 200 gold worth of treasure and two magic scrolls.

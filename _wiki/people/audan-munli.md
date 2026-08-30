@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: "Audan"
+title: "Audan Munli"
 category: "People"
-source: "People/Audan.md"
-permalink: "/people/audan/"
+source: "People/Audan Munli.md"
+permalink: "/people/audan-munli/"
 generated: true
 ---
 

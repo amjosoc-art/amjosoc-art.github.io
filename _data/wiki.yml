@@ -22,8 +22,8 @@ categories:
     pages:
       - title: "Aeth"
         url: "/people/aeth/"
-      - title: "Audan"
-        url: "/people/audan/"
+      - title: "Audan Munli"
+        url: "/people/audan-munli/"
       - title: "Bordon"
         url: "/people/bordon/"
       - title: "Edvard"
@@ -91,6 +91,8 @@ categories:
     slug: "mysteries"
     url: "/mysteries/"
     pages:
+      - title: "Eye in the box"
+        url: "/mysteries/eye-in-the-box/"
       - title: "Lake with Faces"
         url: "/mysteries/lake-with-faces/"
       - title: "purple cloaks with one eye"
@@ -108,3 +110,5 @@ categories:
         url: "/session-notes/session-1/"
       - title: "Session 2"
         url: "/session-notes/session-2/"
+      - title: "Session 3"
+        url: "/session-notes/session-3/"

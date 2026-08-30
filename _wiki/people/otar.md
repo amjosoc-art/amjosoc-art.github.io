@@ -14,4 +14,4 @@ generated: true
 | Occupation | Hunter |
 | Status | Alive |
 
-An orcish man living at the <a class="wiki-link" href="/locations/hunters-camp/">Hunter&#x27;s Camp</a>. Talked to <a class="wiki-link" href="/people/audan/">Audan</a> before he vanished in the <a class="wiki-link" href="/locations/uostas-forest/">Uostas Forest</a>.
+An orcish man living at the <a class="wiki-link" href="/locations/hunters-camp/">Hunter&#x27;s Camp</a>. Talked to <a class="wiki-link" href="/people/audan-munli/">Audan Munli</a> before he vanished in the <a class="wiki-link" href="/locations/uostas-forest/">Uostas Forest</a>.

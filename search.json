@@ -60,7 +60,7 @@
     "url": "/locations/uostas/",
     "links": [
       "Linna",
-      "Audan",
+      "Audan Munli",
       "Forgemaster Egil",
       "Thieves' Guild",
       "Highrise",
@@ -91,6 +91,13 @@
     "links": []
   },
   {
+    "title": "Eye in the box",
+    "aliases": [],
+    "category": "Mysteries",
+    "url": "/mysteries/eye-in-the-box/",
+    "links": []
+  },
+  {
     "title": "Lake with Faces",
     "aliases": [],
     "category": "Mysteries",
@@ -105,7 +112,10 @@
     "aliases": [],
     "category": "Mysteries",
     "url": "/mysteries/purple-cloaks-with-one-eye/",
-    "links": []
+    "links": [
+      "Uostas Forest",
+      "Tofrar"
+    ]
   },
   {
     "title": "The Madness",
@@ -131,7 +141,7 @@
     "links": [
       "Forgemaster Egil|Egil",
       "Aksel",
-      "Audan"
+      "Audan Munli"
     ]
   },
   {
@@ -150,7 +160,7 @@
       "Esise",
       "Laine Beaufort|Laine",
       "Kany",
-      "Audan"
+      "Audan Munli"
     ]
   },
   {
@@ -210,14 +220,14 @@
     "url": "/people/aeth/",
     "links": [
       "Hunter's Camp",
-      "Audan"
+      "Audan Munli"
     ]
   },
   {
-    "title": "Audan",
+    "title": "Audan Munli",
     "aliases": [],
     "category": "People",
-    "url": "/people/audan/",
+    "url": "/people/audan-munli/",
     "links": [
       "Uostas",
       "Prata",
@@ -231,7 +241,7 @@
     "category": "People",
     "url": "/people/bordon/",
     "links": [
-      "Audan",
+      "Audan Munli",
       "Uostas",
       "Prata"
     ]
@@ -242,7 +252,7 @@
     "category": "People",
     "url": "/people/edvard/",
     "links": [
-      "Audan"
+      "Audan Munli"
     ]
   },
   {
@@ -289,7 +299,7 @@
     "url": "/people/otar/",
     "links": [
       "Hunter's Camp",
-      "Audan",
+      "Audan Munli",
       "Uostas Forest"
     ]
   },
@@ -313,7 +323,7 @@
       "Linna",
       "Aksel",
       "Forgemaster Egil",
-      "Audan",
+      "Audan Munli",
       "Saltwind Market",
       "Sunny",
       "Laine Beaufort",
@@ -332,10 +342,10 @@
       "Bordon",
       "Edvard",
       "Laine's Crystal|crystal",
-      "Audan",
+      "Audan Munli",
       "Uostas",
       "Thieves' Guild",
-      "Audan",
+      "Audan Munli",
       "Session 2"
     ]
   },
@@ -348,7 +358,7 @@
       "Thieves' Guild|The Bar",
       "Forgemaster Egil|Egil",
       "Hunter's Camp",
-      "Audan",
+      "Audan Munli",
       "Aeth",
       "Pyrefowl",
       "Lake with Faces",
@@ -360,6 +370,21 @@
       "wooden box with arcane runes|wooden box with arcane runes",
       "Session 1",
       "Session 3"
+    ]
+  },
+  {
+    "title": "Session 3",
+    "aliases": [],
+    "category": "Session Notes",
+    "url": "/session-notes/session-3/",
+    "links": [
+      "purple cloaks with one eye|cloaks",
+      "Tofrar",
+      "Aeth",
+      "Eye in the box|eye",
+      "Audan Munli",
+      "Uostas",
+      "Eye in the box|eye"
     ]
   }
 ]
