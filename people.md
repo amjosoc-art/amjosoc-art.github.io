@@ -17,6 +17,7 @@ generated: true
 <a class="wiki-list-item" href="/people/esise/"><span class="wiki-list-title">Esise</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/forgemaster-egil/"><span class="wiki-list-title">Forgemaster Egil</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/kany/"><span class="wiki-list-title">Kany</span><span class="wiki-list-arrow">→</span></a>
+<a class="wiki-list-item" href="/people/khela-olgard/"><span class="wiki-list-title">Khela Olgard</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/otar/"><span class="wiki-list-title">Otar</span><span class="wiki-list-arrow">→</span></a>
 <a class="wiki-list-item" href="/people/sunny/"><span class="wiki-list-title">Sunny</span><span class="wiki-list-arrow">→</span></a>
 

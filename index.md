@@ -22,7 +22,7 @@ Welcome to the campaign wiki.
   <a href="/people/" class="wiki-category-link">
     People
   </a>
-  <span class="wiki-category-count">9 pages</span>
+  <span class="wiki-category-count">10 pages</span>
 </div>
 
 <div class="wiki-category-card">
@@ -61,17 +61,10 @@ Welcome to the campaign wiki.
 </div>
 
 <div class="wiki-category-card">
-  <a href="/other/" class="wiki-category-link">
-    Other
-  </a>
-  <span class="wiki-category-count">4 pages</span>
-</div>
-
-<div class="wiki-category-card">
   <a href="/session-notes/" class="wiki-category-link">
     Session Notes
   </a>
-  <span class="wiki-category-count">4 pages</span>
+  <span class="wiki-category-count">7 pages</span>
 </div>
 
 </div>

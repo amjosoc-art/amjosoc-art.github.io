@@ -1,9 +1,9 @@
 ---
 layout: wiki
 title: "Session 6"
-category: "Other"
-source: "Session 6.md"
-permalink: "/other/session-6/"
+category: "Session Notes"
+source: "Session Notes/Session 6.md"
+permalink: "/session-notes/session-6/"
 generated: true
 ---
 

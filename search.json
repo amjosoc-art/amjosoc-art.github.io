@@ -1,58 +1,5 @@
 [
   {
-    "title": "Khela Olgard",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/khela-olgard/",
-    "links": []
-  },
-  {
-    "title": "Session 5",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/session-5/",
-    "links": [
-      "Baron",
-      "Kany",
-      "Auron",
-      "Veiled Hand Guild",
-      "Coin with Three Holes",
-      "Crystal of Mesmerization",
-      "Str\u00fctze",
-      "Vuvzi",
-      "Cedar",
-      "Khela Olgard",
-      "Session 4",
-      "Session 6"
-    ]
-  },
-  {
-    "title": "Session 6",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/session-6/",
-    "links": [
-      "Gold Powder",
-      "Str\u00fctze",
-      "Cytillesh"
-    ]
-  },
-  {
-    "title": "Session 7",
-    "aliases": [],
-    "category": "Other",
-    "url": "/other/session-7/",
-    "links": [
-      "Melted Temple",
-      "Shasenaya",
-      "Cytillesh",
-      "Ivred",
-      "Khela Olgard",
-      "Cytillesh",
-      "Willy"
-    ]
-  },
-  {
     "title": "Highrise",
     "aliases": [],
     "category": "Locations",
@@ -348,6 +295,13 @@
     ]
   },
   {
+    "title": "Khela Olgard",
+    "aliases": [],
+    "category": "People",
+    "url": "/people/khela-olgard/",
+    "links": []
+  },
+  {
     "title": "Otar",
     "aliases": [],
     "category": "People",
@@ -459,6 +413,52 @@
       "purple cloaks with one eye|cult",
       "Session 3",
       "Session 5"
+    ]
+  },
+  {
+    "title": "Session 5",
+    "aliases": [],
+    "category": "Session Notes",
+    "url": "/session-notes/session-5/",
+    "links": [
+      "Baron",
+      "Kany",
+      "Auron",
+      "Veiled Hand Guild",
+      "Coin with Three Holes",
+      "Crystal of Mesmerization",
+      "Str\u00fctze",
+      "Vuvzi",
+      "Cedar",
+      "Khela Olgard",
+      "Session 4",
+      "Session 6"
+    ]
+  },
+  {
+    "title": "Session 6",
+    "aliases": [],
+    "category": "Session Notes",
+    "url": "/session-notes/session-6/",
+    "links": [
+      "Gold Powder",
+      "Str\u00fctze",
+      "Cytillesh"
+    ]
+  },
+  {
+    "title": "Session 7",
+    "aliases": [],
+    "category": "Session Notes",
+    "url": "/session-notes/session-7/",
+    "links": [
+      "Melted Temple",
+      "Shasenaya",
+      "Cytillesh",
+      "Ivred",
+      "Khela Olgard",
+      "Cytillesh",
+      "Willy"
     ]
   }
 ]

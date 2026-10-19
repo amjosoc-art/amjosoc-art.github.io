@@ -19,4 +19,4 @@ generated: true
 - Headpriestess of the Tofrar church is <span class="wiki-unresolved" title="No page exists for this reference">Shasenaya</span> a Leshny. She asks Soren to look into a new <a class="wiki-link" href="/mysteries/purple-cloaks-with-one-eye/">cult</a> that is emerging that is supposedly meeting at the harbor.  
   
 Previous Session: <a class="wiki-link" href="/session-notes/session-3/">Session 3</a>  
-Next Session: <a class="wiki-link" href="/other/session-5/">Session 5</a>
+Next Session: <a class="wiki-link" href="/session-notes/session-5/">Session 5</a>

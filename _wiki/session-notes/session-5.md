@@ -1,9 +1,9 @@
 ---
 layout: wiki
 title: "Session 5"
-category: "Other"
-source: "Session 5.md"
-permalink: "/other/session-5/"
+category: "Session Notes"
+source: "Session Notes/Session 5.md"
+permalink: "/session-notes/session-5/"
 generated: true
 ---
 
@@ -16,8 +16,8 @@ generated: true
 	- <span class="wiki-unresolved" title="No page exists for this reference">Vuvzi</span> a leshy might know more about happenings in the harbor. <span class="wiki-unresolved" title="No page exists for this reference">Cedar</span>, someone in the guards could help when there is trouble. She can be bribed.  
 - While waiting for Vuvzi, the party engages in gambling and work together to win 5 gold coins. Aksel gets approached by an old acquaintance, a con man (name?). He calls Aksel "Little One" and is surprised when learning that Aksel pulled off some job 16 years ago. He tells him that he needs to get out as soon as he can (why exactly? I didn't get the details.) Lastly, he says that if Aksel wants to get rid of "it", he can probably find some people to con into taking it off of them.  
 - Eventually Vuvzi returns and Laine goes to ask them. They tell of different genuine parties going on in the harbor, often Anti-Baron groups. But there is a "Bunch of Freaks" who meet every day or every other day in a particular warehouse that they can give us directions to.  
-- At the warehouse, the party stakes the location out for a bit, spotting a woman accompanied by two people unlock the door. Shortly after, more people start trickling in. We each sneak or simply walk in and witness the apparent leader, <a class="wiki-link" href="/other/khela-olgard/">Khela Olgard</a>, address the group. She praises happiness and forgetting pain, and condemns the people that would force unhappiness on others. She lets someone on the stage and casts a long modify memory on them, leaving them unconscious on the stage. She then tells the congregation to practice. Laine runs into her and she brings them back to the main room while offering to heal their arm.  
+- At the warehouse, the party stakes the location out for a bit, spotting a woman accompanied by two people unlock the door. Shortly after, more people start trickling in. We each sneak or simply walk in and witness the apparent leader, <a class="wiki-link" href="/people/khela-olgard/">Khela Olgard</a>, address the group. She praises happiness and forgetting pain, and condemns the people that would force unhappiness on others. She lets someone on the stage and casts a long modify memory on them, leaving them unconscious on the stage. She then tells the congregation to practice. Laine runs into her and she brings them back to the main room while offering to heal their arm.  
 - She also spots Soren trying to avoid her and goes to greet him, accurately guessing at his regrets at being banished from the church. She says that she founded this congregation with some associates. Finally the party gets out of the warehouse. Laine determines that she is constantly concentrating on a spell, but couldn't figure out what.  
   
 Previous Session: <a class="wiki-link" href="/session-notes/session-4/">Session 4</a>  
-Next Session: <a class="wiki-link" href="/other/session-6/">Session 6</a>
+Next Session: <a class="wiki-link" href="/session-notes/session-6/">Session 6</a>
